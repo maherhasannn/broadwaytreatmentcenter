@@ -170,7 +170,7 @@ Status: `[ ]` not started · `[✅]` posted to WP draft
 | 50 | Rehab Near Irvine California | /rehab-near-irvine-ca/ | ☐ |
 | 51 | Addiction Treatment for Veterans | /veteran-addiction-treatment-california/ | ☐ |
 | 52 | Veterans Mental Health Treatment | /veterans-mental-health-treatment-orange-county/ | ☐ |
-| 53 | Court Ordered Rehab California | /court-ordered-rehab-california/ | ☐ |
+| 53 | Court Ordered Rehab California | /court-ordered-rehab-california/ | ✅ |
 | 54 | Drug Diversion Program Orange County | /drug-diversion-program-orange-county/ | ☐ |
 | 55 | DUI Rehab Programs California | /dui-rehab-programs-california/ | ☐ |
 | 56 | Sober Living Orange County | /sober-living-orange-county/ | ☐ |
